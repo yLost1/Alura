@@ -1,17 +1,26 @@
-ç<head>
-  <link rel="stylesheet" href="styles.css"
-    </titulo></titulo>
-    </head>
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Alura</title>
+</head>
 
 <body>
-  
-<header>ALURA</header>
+    <header>Alura</header>
 
-<h1>Montagem Bailão</h1>
-</p>#Bailão</p>
+    <section>
+        <div>
+            <h1>Montagm Bailão</h1>
+            <p>#Bailão</p>
+        </div>
 
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9KFb_fmvV8?si=uOJ-mo7GocSnVyVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
 
-
-<body>
+</html>
