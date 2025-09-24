@@ -5,10 +5,10 @@ body {
 }
 
 header{
-  bonder:solid 2px rgb(42, 122, 228);
-dding: 20px;
-font-size: 32px
-color: rgb(4, 122, 228);
+  bonder-bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+  font-size: 32px
+  color: rgb(4, 122, 228);
 }
 
 section {
