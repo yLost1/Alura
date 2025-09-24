@@ -1,17 +1,17 @@
-body {
+ body{
   color: white;
-  blackground: black;
-  margin:0px;
+  background: black;
+  magin:0px;
 }
 
-header{
+ header{
   bonder-bottom: solid 2px rgb(42, 122, 228);
-  padding: 20px;
+  padding: 22px;
   font-size: 32px
-  color: rgb(4, 122, 228);
+  color: rgb(42, 122, 228);
 }
 
-section {
+ section {
     background: rgb(184,156,213);
     padding-bottom: 80px;
     padding-top: 80px;
