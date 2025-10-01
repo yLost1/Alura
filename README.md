@@ -1,20 +1,54 @@
-<head>  rel="stylesheet" href="styles.css" />
-  <titulo></titulo>
+<html lang="pt-BR">
 
 <head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>cezeflix</title>
+</head>
 
-  
-<body> 
-
-
-   [3 trimestre pensamento computacional (1).html](https://github.com/user-attachments/files/22006145/3.trimestre.pensamento.computacional.1.html)
 <body>
+    <header>CEZFLIX</header>
 
-<header>Alura</header>
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>Tipo Minato</h1>
+            <p>#minato</p>
+        </div>
 
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IaRYwEECq-E?si=KgwdFI4rfQr5__Rk" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-  write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
+        </div>
+    </section>
 
-<h1>Tipo Hashirama</h1>
-<P>#Hashirama</P>
+    <section class="categoria">
+        <h2>Outras musicas</h2>
+        <div class="categoria-videos">
+            <a href="https://www.youtube.com/watch?v=wCMzj9Gzyt0">
+                <img src="https://img.youtube.com/vi/wCMzj9Gzyt0/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=sSLrBuDWnOw">
+                <img src="https://img.youtube.com/vi/sSLrBuDWnOw/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=ZAa0hJKXwZU">
+                <img src="https://img.youtube.com/vi/ZAa0hJKXwZU/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=9HqzHYmTnAA">
+                <img src="https://img.youtube.com/vi/9HqzHYmTnAA/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=Gne4T4B3zhg">
+                <img src="https://img.youtube.com/vi/Gne4T4B3zhg/maxresdefault.jpg" />
+            </a>
+        </div>
+    </section>
 
+</body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gne4T4B3zhg?si=g-poE8m7cRjqZ9Dn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</html>
